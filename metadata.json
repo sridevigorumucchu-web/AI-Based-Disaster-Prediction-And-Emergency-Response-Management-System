@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Disaster Prediction and Emergency Response Management System",
+  "description": "A comprehensive AI-driven disaster prediction, emergency response, real-time weather, video analysis, and evacuation management system.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

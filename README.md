@@ -1,2 +1,20 @@
-# AI-Based-Disaster-Prediction-And-Emergency-Response-Management-System
-**AI-powered disaster management system that predicts natural disasters using real-time weather, sensor, and satellite data. It provides early warnings, interactive risk maps, and emergency response support to improve preparedness, optimize rescue operations, and help protect lives and communities.**
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/361f063f-dd95-4925-898a-fca97bb85146
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
