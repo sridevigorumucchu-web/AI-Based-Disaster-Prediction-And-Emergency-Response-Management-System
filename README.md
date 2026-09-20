@@ -1,20 +1,29 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+<img width="1200" height="475" alt="AI Disaster Prediction and Emergency Response Management System" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
 </div>
 
-# Run and deploy your AI Studio app
+# AI-Based Disaster Prediction and Emergency Response Management System
 
-This contains everything you need to run your app locally.
+An AI-powered disaster prediction and emergency response management system designed to support early disaster risk identification, emergency response, and evacuation management in India.
 
-View your app in AI Studio: https://ai.studio/apps/361f063f-dd95-4925-898a-fca97bb85146
+## Project Repository
+
+GitHub Repository:
+
+https://github.com/sridevigorumucchu-web/AI-Based-Disaster-Prediction-And-Emergency-Response-Management-System
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+- Node.js
+- npm
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sridevigorumucchu-web/AI-Based-Disaster-Prediction-And-Emergency-Response-Management-System.git
